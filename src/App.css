@@ -1,0 +1,19 @@
+.Linkt{
+    text-decoration: none;
+    align-items: center;
+   list-style: none;
+   margin: 5px;
+   padding: 5PX;
+  }
+  .dashbtn{
+      margin: 10px;
+  }
+  .btn_post{
+      margin: 10px;
+      position: sticky;
+  }
+  .btn_sub{
+    margin: 15px;
+    position: sticky;
+  }
+  

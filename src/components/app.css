@@ -1,0 +1,43 @@
+.header{
+   display: flex;
+   padding: 1px;
+    align-content: center;
+    background-color: rgb(243, 43, 43);
+    align-items: center;
+    justify-content: center;
+
+    
+   
+}
+.title{
+    align-items: center;
+    justify-content: center;
+    
+}
+.Head2 h3{
+    background-color: rgb(243, 43, 43);
+    height: 50px;
+    align-content: center;
+    /* text-align: left; */
+    text-align: justify;
+}
+.dashbtn1{
+   margin: 15px;
+}
+
+.btn{
+    margin: 20px;
+}
+.thead{
+    background-color: rgb(238, 84, 84);
+}
+.Thead1{
+    margin: 5px;
+}
+.textF1{
+    display: flex;
+    /* margin: 5px; */
+}
+.textw1{
+    margin: 5px;
+}
